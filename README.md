@@ -40,9 +40,9 @@ data cleaning in Python → SQL analysis → 5-page interactive Power BI dashboa
 
 ## Feature Engineering
 Three risk-ratio features engineered from raw columns:
-- `CREDIT_INCOME_RATIO` - loan amount ÷ annual income
-- `ANNUITY_INCOME_RATIO` - annual repayment ÷ annual income  
-- `DAYS_EMPLOYED_RATIO` - employment duration ÷ applicant age
+- `CREDIT_INCOME_RATIO` = loan amount ÷ annual income
+- `ANNUITY_INCOME_RATIO` = annual repayment ÷ annual income  
+- `DAYS_EMPLOYED_RATIO` = employment duration ÷ applicant age
 
 ## Dashboard Pages
 | Page | Description |
