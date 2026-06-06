@@ -24,7 +24,7 @@ data cleaning in Python → SQL analysis → 5-page interactive Power BI dashboa
 | Education gap | Lower secondary 10.93% vs Academic degree 1.83% |
 
 ## Recommendations
-1. **Verification mandate** - Require bureau score for all loans above ₹1L;
+1. **Verification mandate** - Require bureau score for all loans above 1,00,000;
    addresses 60,965 unverified applicants
 2. **Age-based monitoring** - 6-month check-in protocol for under-30
    first-time borrowers; targets 45,000 high-risk applicants
